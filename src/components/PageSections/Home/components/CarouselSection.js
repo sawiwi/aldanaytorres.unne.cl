@@ -10,9 +10,6 @@ const CarouselSection = () => (
         </div>
       </div>
   </div>
-
-
-
 );
 
 export default CarouselSection;
